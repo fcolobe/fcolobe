@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left" style="display: flex; align-items:center">
-<img align="center" alt="Visual Studio Code" width="50%" src="https://github-readme-stats.vercel.app/api?username=1017SQD&show_icons=true&theme=radical" style="max-width: 100%;">
+<img align="center" alt="Visual Studio Code" width="48%" src="https://github-readme-stats.vercel.app/api?username=1017SQD&show_icons=true&theme=radical" style="max-width: 100%;">
 <img align="right" alt="Visual Studio Code" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1017SQD&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
 </p>
 
