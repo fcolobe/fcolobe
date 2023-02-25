@@ -22,7 +22,7 @@ Data Analyst and Data Science Master. Passionate about using data to help organi
 <img align="right" alt="Visual Studio Code" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1017SQD&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
 </p>
 
-## Connect With Me
+## 🔗 Connect With Me
 [![img_contact](https://www.mikecodeur.com/#gh-dark-mode-only)
 
 ## 🛠️ Tech Stack
