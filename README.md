@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![banner](https://user-images.githubusercontent.com/40957618/221383111-af3c7bb3-b284-459d-99c9-7e082de126c8.jpg)
 
 ## Hi there, I'm Fonty! 👋
 
