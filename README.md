@@ -63,7 +63,7 @@ Data Analyst and Data Science Master. Passionate about using data to help organi
 
 <br>
 
-## Routine
+## 🔁 Daily Routine
 
 ````mermaid
       graph LR
