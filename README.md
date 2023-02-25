@@ -56,15 +56,10 @@ Data Analyst and Data Science Master. Passionate about using data to help organi
 ### Routine
 
 ````mermaid
-gitGraph
-   commit
-   commit
-   branch develop
-   checkout develop
-   commit
-   commit
-   checkout main
-   merge develop
-   commit
-   commit
+    timeline
+        title History of Social Media Platform
+          2002 : LinkedIn
+          2004 : Facebook : Google
+          2005 : Youtube
+          2006 : Twitter
 ````
