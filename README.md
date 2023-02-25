@@ -64,9 +64,10 @@ Data Analyst and Data Science Master. Passionate about using data to help organi
 ## Routine
 
 ````mermaid
-   graph LR
-    A[Square Rect] -- Link text --> B((Circle))
-    A --> C(Round Rect)
-    B --> D{Rhombus}
+      graph LR
+    A[Data Analysis] -- Uses --> B(Machine Learning)
+    A --> C(Data Visualization)
+    B --> D{Modeling}
     C --> D
+
 ````
