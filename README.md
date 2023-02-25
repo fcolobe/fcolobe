@@ -71,3 +71,6 @@ Data Analyst and Data Science Master. Passionate about using data to help organi
     C --> D
 
 ````
+
+## 📝 Random Programming Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
