@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 </p>
 
 ## 🔗 Connect With Me
-[![img_contact](https://www.mikecodeur.com/#gh-dark-mode-only)
+![img_contact](https://raw.githubusercontent.com/MikeCodeur/MikeCodeur/main/img/globe-dark.svg)
+![img_contact](https://raw.githubusercontent.com/MikeCodeur/MikeCodeur/main/img/twitter-dark.svg)
+![img_contact](https://raw.githubusercontent.com/MikeCodeur/MikeCodeur/main/img/linkedin-dark.svg)
 
 ## 🛠️ Tech Stack
 <p align="left" style="display: flex; align-items:center">
