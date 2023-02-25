@@ -56,10 +56,9 @@ Data Analyst and Data Science Master. Passionate about using data to help organi
 ### Routine
 
 ````mermaid
-    timeline
-        title History of Social Media Platform
-          2002 : LinkedIn
-          2004 : Facebook : Google
-          2005 : Youtube
-          2006 : Twitter
+   graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
 ````
