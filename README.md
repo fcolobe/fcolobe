@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/40957618/221383346-b4c1c3cd-c5c5-40b0-adaa-f7bd0d21cf16.jpg)
+![banner](https://user-images.githubusercontent.com/40957618/221383505-9dfaef62-fd0a-4fff-b5d6-b1dfe55fe117.jpg)
 
 ## Hi there, I'm Fonty! 👋
 
