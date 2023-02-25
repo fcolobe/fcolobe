@@ -22,6 +22,9 @@ Data Analyst and Data Science Master. Passionate about using data to help organi
 <img align="right" alt="Visual Studio Code" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1017SQD&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
 </p>
 
+## Connect With Me
+[![img_contact](https://www.mikecodeur.com/#gh-dark-mode-only)
+
 ## 🛠️ Tech Stack
 <p align="left" style="display: flex; align-items:center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
@@ -43,17 +46,22 @@ Data Analyst and Data Science Master. Passionate about using data to help organi
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="max-width: 100%;">
 
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="max-width: 100%;">
+  
+<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="max-width: 100%;">
  
 <img align="left" alt="TensorFlow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="max-width: 100%;">
   
+<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="max-width: 100%;">
+  
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
 
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">  
+<img align="left" alt="Kaggle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" style="max-width: 100%;"> 
+
 </p>
 
 <br>
 
-### Routine
+## Routine
 
 ````mermaid
    graph LR
