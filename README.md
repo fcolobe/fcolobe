@@ -1,3 +1,4 @@
+<!--START_SECTION:activity-->
 ![banner](https://user-images.githubusercontent.com/40957618/221383533-47143e0d-43aa-4981-b841-230b65327116.jpg)
 
 ## Hi there, I'm Fonty! 👋
