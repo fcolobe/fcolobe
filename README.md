@@ -1,4 +1,3 @@
-<!--START_SECTION:activity-->
 ![banner](https://user-images.githubusercontent.com/40957618/221383533-47143e0d-43aa-4981-b841-230b65327116.jpg)
 
 ## Hi there, I'm Fonty! 👋
@@ -31,6 +30,9 @@ Here are some ideas to get you started:
   media="(prefers-color-scheme: dark)"
 />
 </picture>
+
+## 🔥Recent Activity
+<!--START_SECTION:activity-->
 
 ## 🛠️ Tech Stack
 <p align="left" style="display: flex; align-items:center">
