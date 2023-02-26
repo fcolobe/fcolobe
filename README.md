@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 />
 </picture>
 
-## 🔥Recent Activity
-<!--START_SECTION:activity-->
-
 ## 🛠️ Tech Stack
 <p align="left" style="display: flex; align-items:center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
@@ -69,6 +66,9 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+
+## 🔥Recent Activity
+<!--START_SECTION:activity-->
 
 ## ⚙️ Processing 
 
