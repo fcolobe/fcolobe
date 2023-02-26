@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 <img align="right" alt="Visual Studio Code" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1017SQD&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
 </p>
 
+<br>
+
+<img align="center" alt="Visual Studio Code" width="100%" src="https://editor.analyticsvidhya.com/uploads/75819stats_1050x520.png" style="max-width: 100%;">
+
 ## 🛠️ Tech Stack
 <p align="left" style="display: flex; align-items:center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
