@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left" style="display: flex; align-items:center">
+<div>
 <img align="center" alt="Visual Studio Code" width="52%" src="https://github-readme-stats.vercel.app/api?username=1017SQD&show_icons=true&theme=radical" style="max-width: 100%;">
 <img align="right" alt="Visual Studio Code" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1017SQD&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
-</p>
+</div>
 
 <br>
 
