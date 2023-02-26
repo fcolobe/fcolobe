@@ -74,6 +74,6 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔗 Connect With Me
-[![img_contact](https://raw.githubusercontent.com/MikeCodeur/MikeCodeur/main/img/globe-dark.svg)](https://github.com/1017SQD)
-[![img_contact](https://raw.githubusercontent.com/MikeCodeur/MikeCodeur/main/img/twitter-dark.svg)](https://twitter.com/1O17SQD)
-[![img_contact](https://raw.githubusercontent.com/MikeCodeur/MikeCodeur/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/fontycolobe/)
+[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg)](https://github.com/1017SQD)
+[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg)](https://twitter.com/1O17SQD)
+[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/fontycolobe/)
