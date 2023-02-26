@@ -25,7 +25,12 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="center" alt="Visual Studio Code" width="100%" src="https://editor.analyticsvidhya.com/uploads/75819stats_1050x520.png" style="max-width: 100%;">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+</picture>
 
 ## 🛠️ Tech Stack
 <p align="left" style="display: flex; align-items:center">
