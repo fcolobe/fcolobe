@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔗 Connect With Me
-[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg)](https://github.com/1017SQD)
+[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg)](https://1017sqd.github.io/portfolio/)
 &nbsp;&nbsp;
 [![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg)](https://twitter.com/1O17SQD)
 &nbsp;&nbsp;
