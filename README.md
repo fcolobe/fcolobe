@@ -87,6 +87,6 @@ Here are some ideas to get you started:
 ## 🔗 Connect with Me
 [![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg)](https://1017sqd.github.io/portfolio/)
 &nbsp;&nbsp;
-[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg)](https://twitter.com/1O17SQD)
+[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg)](https://twitter.com/TestTweepy5)
 &nbsp;&nbsp;
 [![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/fontycolobe/)
