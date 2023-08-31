@@ -85,8 +85,11 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔗 Connect with Me
-[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/globe-dark.svg)](https://1017sqd.github.io/portfolio/)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://1017sqd.github.io/portfolio/#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://1017sqd.github.io/portfolio/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg)](https://twitter.com/TestTweepy5)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/TestTweepy5#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg)](https://twitter.com/TestTweepy5#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/fontycolobe/)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://www.linkedin.com/in/fontycolobe/#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/fontycolobe/#gh-dark-mode-only)
