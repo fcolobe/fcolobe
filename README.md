@@ -40,12 +40,12 @@ Here are some ideas to get you started:
   
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
    
-<img align="left" alt="Dask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dask_Logo.svg/1024px-Dask_Logo.svg.png" style="max-width: 100%;">  
-  
-<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="max-width: 100%;">
-  
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="max-width: 100%;">
+<img align="left" alt="Dask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dask_Logo.svg/1024px-Dask_Logo.svg.png" style="max-width: 100%;">
 
+<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="max-width: 100%;">
+
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="max-width: 100%;">
+  
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="max-width: 100%;">
   
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="max-width: 100%;">
